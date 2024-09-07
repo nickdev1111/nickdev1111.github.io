@@ -12,7 +12,7 @@
 - Evaluated assignments in Mathematical Modeling (MATH 385) to provide feedback for twenty students
 - Assisted students in their abilities modeling population and hunter-prey models or fitting data to the most accurate model
 
-** Mathematics Teacher @ Mathnasium - The Math Learning Center (_June 2021 - September 2022_)**
+**Mathematics Teacher @ Mathnasium - The Math Learning Center (_June 2021 - September 2022_)**
 - Enthusiastically developed students' passion for Math through motivating new problem solving methods
 - Guided student's problem exploration through Socratic questioning
 - Encouraging, praising, and lending constructive feedback to students
