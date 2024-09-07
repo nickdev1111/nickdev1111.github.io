@@ -1,6 +1,8 @@
 # Nick Devroye
 
-#### Technical Skills: Python, MATLAB, SQL, R, RStudio, SAS, Java, LaTeX, Maple, C++, Emacs
+#### Libraries: Pandas, Matplotlib, NumPy, SciKit-Learn, TensforFlow, PyTorch, Keras, BeautifulSoup
+#### Languages: Python, MATLAB, SQL, R, RStudio, Java, JavaScript, Maple, C++, Emacs
+#### Tools: Jupyter, Tableau, SAS, Apache Spark, Excel, Word, PowerPoint, LaTeX, 
 
 ## Education 			        		
 - B.S., Mathematics | University of Maryland, Baltimore County (_Aug 2024_)
