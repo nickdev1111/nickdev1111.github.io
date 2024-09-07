@@ -1,4 +1,4 @@
-# Nick Devroye
+# Nicholas (Nick) Devroye
 
 #### Libraries: Pandas, Matplotlib, NumPy, SciKit-Learn, TensforFlow, PyTorch, Keras, BeautifulSoup
 #### Languages: Python, MATLAB, SQL, R, RStudio, Java, JavaScript, Maple, C++, Emacs
