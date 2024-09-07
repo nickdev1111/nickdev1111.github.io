@@ -21,7 +21,7 @@
 
 ## Projects
 ### Project 1
-[Project 1]([https://www.mdpi.com/1424-8220/22/8/3048](https://nickdevroye.github.io/))
+[Project 1]([https://nickdevroye.github.io/](https://nickdevroye.github.io/))
 
 Project Description
 
